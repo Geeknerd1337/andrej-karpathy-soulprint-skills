@@ -2,7 +2,7 @@
 
 A `CLAUDE.md` / Cursor rule / Claude Code plugin distilling **Andrej Karpathy's actual coding pedagogy and writing voice** into operational rules an LLM coding assistant can follow.
 
-Built from a [9,001-tweet + 31-essay + 20-video soulprint](https://github.com/joshuawilson/ai_memories) of `@karpathy` (scraped 2026-04-17). Every principle is anchored in a verbatim Karpathy quote.
+Built from a 9,001-tweet + 31-essay + 20-video soulprint of `@karpathy` (scraped 2026-04-17). Every principle is anchored in a verbatim Karpathy quote.
 
 > Inspired by `forrestchang/andrej-karpathy-skills`, but where that repo distills four principles from a single Karpathy tweet, this one is built from his complete public corpus — pedagogy patterns, voice conventions, signature moves, and dated predictions.
 
