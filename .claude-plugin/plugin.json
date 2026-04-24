@@ -1,0 +1,16 @@
+{
+  "name": "karpathy-skills",
+  "version": "0.1.0",
+  "description": "Karpathy-style coding guidelines distilled from a 9,001-tweet + 31-essay + 20-video soulprint of @karpathy. Six principles, each anchored in a verbatim quote.",
+  "author": {
+    "name": "joshuawilson"
+  },
+  "license": "MIT",
+  "keywords": [
+    "guidelines",
+    "best-practices",
+    "coding",
+    "karpathy",
+    "soulprint"
+  ]
+}

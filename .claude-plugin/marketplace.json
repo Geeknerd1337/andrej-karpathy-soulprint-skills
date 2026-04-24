@@ -1,0 +1,30 @@
+{
+  "name": "karpathy-skills",
+  "id": "karpathy-skills",
+  "owner": {
+    "name": "joshuawilson"
+  },
+  "metadata": {
+    "description": "Karpathy-style coding guidelines distilled from a deep public-corpus soulprint of @karpathy. Every principle anchored in a verbatim quote.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "karpathy-skills",
+      "source": "./",
+      "description": "Six behavioral principles for an LLM coding assistant: Calibrate Confidence, Confess What's Ugly Up Front, Compress Don't Bloat, Surgical Changes, Close the Loop with Evidence, Be Cheerfully Wrong and Build the Ramp.",
+      "version": "0.1.0",
+      "author": {
+        "name": "joshuawilson"
+      },
+      "keywords": [
+        "guidelines",
+        "best-practices",
+        "coding",
+        "karpathy",
+        "soulprint"
+      ],
+      "category": "workflow"
+    }
+  ]
+}
